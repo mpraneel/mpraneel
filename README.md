@@ -16,4 +16,4 @@ motion planning (RRT, C-space), and 2D SLAM.
 **Background:** Linear algebra, probability/statistics, discrete algorithms. 
 Incoming intern at Align Technology (spatial/geometric data).
 
-📍 Raleigh, NC | pmagapu5@gmail.com
+📍 Raleigh, NC | pmagapu@ncsu.edu
