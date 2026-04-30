@@ -10,10 +10,10 @@ algorithms, and work toward motion planning and SLAM pipelines.
 
 | Repo | Status | Description |
 |------|--------|-------------|
-| [cpp-convex-hull](https://github.com/mpraneel/cpp-convex-hull) | In progress | Graham scan + incremental convex hull in C++17, with SFML visualizer and benchmark comparisons |
-| [rrt-motion-planner](https://github.com/mpraneel/rrt-motion-planner) | In progress | RRT and RRT* for 2D C-space planning, SFML visualization, configurable step size and goal bias |
-| [lidar-slam-2d](https://github.com/mpraneel/lidar-slam-2d) | Planned (Fall 2026) | Scan-matching odometry, occupancy grid mapping, and pose graph loop closure in C++17 + ROS2 |
-
+| [mesh-alignment-engine](https://github.com/mpraneel/mesh-alignment-engine) | Active | ICP-based 3D mesh alignment in Python: rigid transformation estimation, SVD-based optimization, and surface deviation heatmaps. Stack: Open3D, NumPy, trimesh |
+| [cpp-convex-hull](https://github.com/mpraneel/cpp-convex-hull) | Up next (Aug 2026) | Graham scan + incremental convex hull in C++17, with SFML visualizer and benchmark comparisons |
+| [rrt-motion-planner](https://github.com/mpraneel/rrt-motion-planner) | Up next (Sep 2026) | RRT and RRT* for 2D C-space planning, SFML visualization, configurable step size and goal bias |
+| lidar-slam-2d | Planned (Fall 2026) | Scan-matching odometry, occupancy grid mapping, and pose graph loop closure in C++17 + ROS2 |
 ---
 
 ## Technical Background
