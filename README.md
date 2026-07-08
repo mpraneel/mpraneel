@@ -1,6 +1,6 @@
 # Praneel Magapu
 
-CS student at NC State (graduating Dec 2026), building toward robotics software
+CS student at NC State (graduating May 2027), building toward robotics software
 and spatial systems engineering. I write C++ systems code, study geometric
 algorithms, and work toward motion planning and SLAM pipelines.
 
