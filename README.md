@@ -33,7 +33,7 @@ what happens when something is wrong.
 
 ## Systems and Spatial
 
-### arm-kinematics
+### [arm-kinematics](https://github.com/mpraneel/arm-kinematics)
 `C++17` `Eigen` `SFML`
 
 Planar manipulator library with a runtime supervisor. Forward kinematics, analytic and
